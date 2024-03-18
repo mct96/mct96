@@ -1,8 +1,10 @@
 # Hello :vulcan_salute:
 
-My name is Matheus. I learned to program when I was 15 on my own. I really like mathematics (Differential and Integral Calculus and Statistics). I am currently a professor at the Federal Institute of Mato Grosso and a PhD student in Computer Science at UFMG.
+:ghost: My name is Matheus. I learned to program when I was 15 on my own. I really like mathematics (Differential and Integral Calculus and Statistics) and developing challenging algorithms. 
 
-My favorite language is C++ :pinched_fingers:, but I've been programming more in Python :metal: recently. 
+:house: I am currently a professor at the Federal Institute of Mato Grosso and a PhD student in Computer Science at UFMG.
+
+:pinched_fingers: My favorite language is C++, but I've been programming more in Python :metal: recently. 
 
 :100: I am very interested in the area of Data Mining and Deep Learning. 
 

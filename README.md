@@ -51,4 +51,5 @@
   </tr>
 </table>
 
-![](https://github.com/mct96/mct96/blob/output/github-contribution-grid-snake.gif)
+![map](https://github.com/mct96/mct96/blob/output/github-contribution-grid-snake.gif)
+![snake](https://github.com/mct96/mct96/blob/output/github-contribution-grid-snake.gif)

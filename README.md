@@ -37,6 +37,10 @@
 ### Microcontrollers
 ![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+
+---
+
+![Matheus' GitHub stats](https://github-readme-stats.vercel.app/api?username=mct96&show_icons=true&theme=dark)
 <!--
 **mct96/mct96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,3 +1,13 @@
+# Hello :vulcan_salute:
+
+My name is Matheus. I learned to program when I was 15 on my own. I really like mathematics (Differential and Integral Calculus and Statistics). I am currently a professor at the Federal Institute of Mato Grosso and a PhD student in Computer Science at UFMG.
+
+My favorite language is C++ :pinched_fingers:, but I've been programming more in Python :metal: recently. 
+
+:100: I am very interested in the area of Data Mining and Deep Learning. 
+
+:rocket: Currently, I have been studying the area of Graph Neural Network (GNN) and participating in several research projects.
+
 ![](https://komarev.com/ghpvc/?username=mct96)
 [![wakatime](https://wakatime.com/badge/user/018e51a6-c387-4a07-8bbc-e986d256e868.svg)](https://wakatime.com/@018e51a6-c387-4a07-8bbc-e986d256e868)
 

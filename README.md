@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=mct96)
+[![wakatime](https://wakatime.com/badge/user/018e51a6-c387-4a07-8bbc-e986d256e868.svg)](https://wakatime.com/@018e51a6-c387-4a07-8bbc-e986d256e868)
 
 ### Social
 <a href="https://scholar.google.com/citations?user=gGp9ndgAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"></a>
@@ -39,8 +40,22 @@
 ![](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 
 ---
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=mct96&show_icons=true&theme=dark">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mct96&layout=compact">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://wakatime.com/@018e51a6-c387-4a07-8bbc-e986d256e868"><img src="https://wakatime.com/badge/user/018e51a6-c387-4a07-8bbc-e986d256e868.svg" alt="Total time coded since Mar 18 2024" /></a>
+    </td>
+  </tr>
+</table>
 
-![Matheus' GitHub stats](https://github-readme-stats.vercel.app/api?username=mct96&show_icons=true&theme=dark)
 <!--
 **mct96/mct96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

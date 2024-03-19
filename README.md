@@ -68,6 +68,11 @@
 
 <!--START_SECTION:waka-->
 
+```txt
+Python   1 hr 34 mins    █████████████████████████   99.68 %
+INI      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+```
+
 <!--END_SECTION:waka-->
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@mct96/83901567-f112-403e-941f-7f03bf7a6a60.png" height=400/></a>

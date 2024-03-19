@@ -66,4 +66,7 @@
 ![map](https://raw.githubusercontent.com/mct96/mct96/output/github-contribution-grid-snake-dark.svg)
 ![snake](https://github.com/mct96/mct96/blob/output/github-contribution-grid-snake.gif)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@mct96/83901567-f112-403e-941f-7f03bf7a6a60.png" height=400/></a>

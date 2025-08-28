@@ -59,7 +59,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown   2 hrs 30 mins   ████████████████████████▓   98.39 %
+Mermaid    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
 ```
 
 <!--END_SECTION:waka-->

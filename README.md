@@ -86,9 +86,10 @@ Full publication list on [ResearchGate](https://www.researchgate.net/profile/Mat
 <!--START_SECTION:waka-->
 
 ```txt
-Python     1 hr 50 mins          ███████████████████▓░░░░░   78.90 %
-Markdown   25 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.24 %
-Text       4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+Python     2 hrs 59 mins         █████████████████████░░░░   83.80 %
+Markdown   25 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.94 %
+CSV        5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+Text       4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
 ```
 
 <!--END_SECTION:waka-->
